@@ -1,0 +1,4 @@
+﻿  modul_final.cpp
+H:\визуалка\Лабораторки\modul_final\modul_final.cpp(232,11): warning C4018: <=: несоответствие типов со знаком и без знака
+H:\визуалка\Лабораторки\modul_final\modul_final.cpp(246,13): warning C4018: <=: несоответствие типов со знаком и без знака
+  modul_final.vcxproj -> H:\визуалка\Лабораторки\modul_final\Debug\modul_final.exe
